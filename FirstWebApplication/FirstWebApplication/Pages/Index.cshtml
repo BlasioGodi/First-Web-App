@@ -8,3 +8,9 @@
     <h1 class="display-4">Bvitati Jewelry</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+<div class="">
+@foreach (var product in Model.Products){
+    <h2>@product.Weight</h2>
+}
+</div>

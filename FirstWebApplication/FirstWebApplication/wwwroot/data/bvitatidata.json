@@ -1,76 +1,74 @@
-{
-  "Earrings": [
+ [
     {
       "id": "1",
-      "image": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-001.jpg",
+      "img": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-001.jpg",
       "weight": "2.3mg",
       "cost": "20Kshs"
     },
     {
       "id": "2",
-      "image": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-002.jpg",
+      "img": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-002.jpg",
       "weight": "2.7mg",
       "cost": "30Kshs"
     },
     {
       "id": "3",
-      "image": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-003.jpg",
+      "img": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-003.jpg",
       "weight": "3.2mg",
       "cost": "40Kshs"
     },
     {
       "id": "4",
-      "image": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-004.jpg",
+      "img": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-004.jpg",
       "weight": "2.0mg",
       "cost": "50Kshs"
     },
     {
       "id": "5",
-      "image": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-005.jpg",
+      "img": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-005.jpg",
       "weight": "4.1mg",
       "cost": "60Kshs"
     },
     {
       "id": "6",
-      "image": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-006.jpg",
+      "img": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-006.jpg",
       "weight": "2.7mg",
       "cost": "70Kshs"
     },
     {
       "id": "7",
-      "image": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-007.jpg",
+      "img": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-007.jpg",
       "weight": "3.6mg",
       "cost": "80Kshs"
     },
     {
       "id": "8",
-      "image": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-008.jpg",
+      "img": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-008.jpg",
       "weight": "2.2mg",
       "cost": "90Kshs"
     },
     {
       "id": "9",
-      "image": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-009.jpg",
+      "img": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-009.jpg",
       "weight": "2.1mg",
       "cost": "35Kshs"
     },
     {
       "id": "10",
-      "image": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-010.jpg",
+      "img": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-010.jpg",
       "weight": "1.7mg",
       "cost": "60Kshs"
     },
     {
       "id": "11",
-      "image": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-011.jpg",
+      "img": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-011.jpg",
       "weight": "2.6mg",
       "cost": "25Kshs"
     },
     {
       "id": "12",
-      "image": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-012.jpg",
+      "img": "https://github.com/BlasioGodi/Bvitati/blob/main/.src/img/IMG-012.jpg",
       "weight": "4.2mg",
       "cost": "50Kshs"
     }
-    ]
- }
+  ]
