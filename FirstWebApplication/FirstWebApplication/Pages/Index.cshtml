@@ -9,15 +9,26 @@
     <h1 class="display-5">@ViewData["Title"]</h1>
 </div>
 
-<div class="card col-sm-4" style="width: 18rem;">
-    @foreach (var product in Model.Products)
-    {
-        <img src=@product.Image class="card-img-top" alt="...">
-        <div class="card-body">
-            <h5 class="card-title">@product.Weight</h5>
-            <p class="card-text"></p>
-            <a href="#" class="btn btn-primary">@product.Cost</a>
-        </div>
+<div class="container">
+    <div class="row row-cols-1 row-cols-md-3 row-cols-lg-4">
 
-    }
+        @foreach (var product in Model.Products)
+        {<div class="col">
+                <div class="card mx-2 my-2">
+                    <img src=@product.Image classs="card-img-top" alt="...">
+                    <div class="card-body" style="min-height:7rem;">
+                        <h5 class="card-title">@product.Title</h5>
+                        <p class="card-text">@product.Description</p>
+                        <p class="card-text">Cost: @product.Cost</p>
+                    </div>
+                    <div class="card-footer">
+                        <a class="btn btn-primary" href="">@product.Weight</a>
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
 </div>
+
+

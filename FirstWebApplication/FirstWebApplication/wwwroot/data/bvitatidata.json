@@ -3,72 +3,96 @@
     "id": "1",
     "img": "../src/img/IMG-001.jpg",
     "weight": "2.3mg",
-    "cost": "20Kshs"
+    "cost": "20Kshs",
+    "title": "Earring 1",
+    "description": "Description 1"
   },
   {
     "id": "2",
     "img": "../src/img/IMG-002.jpg",
     "weight": "2.7mg",
-    "cost": "30Kshs"
+    "cost": "30Kshs",
+    "title": "Earring 1",
+    "description": "Description 1"
   },
   {
     "id": "3",
     "img": "../src/img/IMG-003.jpg",
     "weight": "3.2mg",
-    "cost": "40Kshs"
+    "cost": "40Kshs",
+    "title": "Earring 1",
+    "description": "Description 1"
   },
   {
     "id": "4",
     "img": "../src/img/IMG-004.jpg",
     "weight": "2.0mg",
-    "cost": "50Kshs"
+    "cost": "50Kshs",
+    "title": "Earring 1",
+    "description": "Description 1"
   },
   {
     "id": "5",
     "img": "../src/img/IMG-005.jpg",
     "weight": "4.1mg",
-    "cost": "60Kshs"
+    "cost": "60Kshs",
+    "title": "Earring 1",
+    "description": "Description 1"
   },
   {
     "id": "6",
     "img": "../src/img/IMG-006.jpg",
     "weight": "2.7mg",
-    "cost": "70Kshs"
+    "cost": "70Kshs",
+    "title": "Earring 1",
+    "description": "Description 1"
   },
   {
     "id": "7",
     "img": "../src/img/IMG-007.jpg",
     "weight": "3.6mg",
-    "cost": "80Kshs"
+    "cost": "80Kshs",
+    "title": "Earring 1",
+    "description": "Description 1"
   },
   {
     "id": "8",
     "img": "../src/img/IMG-008.jpg",
     "weight": "2.2mg",
-    "cost": "90Kshs"
+    "cost": "90Kshs",
+    "title": "Earring 1",
+    "description": "Description 1"
   },
   {
     "id": "9",
     "img": "../src/img/IMG-009.jpg",
     "weight": "2.1mg",
-    "cost": "35Kshs"
+    "cost": "35Kshs",
+    "title": "Earring 1",
+    "description": "Description 1"
   },
   {
     "id": "10",
     "img": "../src/img/IMG-010.jpg",
     "weight": "1.7mg",
-    "cost": "60Kshs"
+    "cost": "60Kshs",
+    "title": "Earring 1",
+    "description": "Description 1"
   },
   {
     "id": "11",
     "img": "../src/img/IMG-011.jpg",
     "weight": "2.6mg",
-    "cost": "25Kshs"
+    "cost": "25Kshs",
+    "title": "Earring 1",
+    "description": "Description 1"
   },
   {
     "id": "12",
     "img": "../src/img/IMG-012.jpg",
     "weight": "4.2mg",
-    "cost": "50Kshs"
+    "cost": "50Kshs",
+    "title": "Earring 1",
+    "description": "Description 1"
   }
   ]
