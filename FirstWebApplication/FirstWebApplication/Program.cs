@@ -30,12 +30,12 @@ app.MapRazorPages();
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapRazorPages();
-    endpoints.MapGet("/bvitatidata", (context)=>
-    {
-        var products = app.Services.GetService<JsonFileProductService>().GetProducts();
-        var json = JsonSerializer.Serialize<IEnumerable<Product>>(products);
-        return context.Response.WriteAsync(json);
-    });
+    //endpoints.MapGet("/bvitatidata", (context) =>
+    //{
+    //    var products = app.Services.GetService<JsonFileProductService>().GetProducts();
+    //    var json = JsonSerializer.Serialize<IEnumerable<Product>>(products);
+    //    return context.Response.WriteAsync(json);
+    //});
 
 });
 
