@@ -1,0 +1,82 @@
+{
+  "Earrings": {
+    "Hooks": [
+      {
+        "id": "1",
+        "image": "url.",
+        "weight": "2.3mg",
+        "cost": "20Kshs"
+      },
+      {
+        "id": "2",
+        "image": "url.",
+        "weight": "2.7mg",
+        "cost": "30Kshs"
+      },
+      {
+        "id": "3",
+        "image": "url.",
+        "weight": "3.2mg",
+        "cost": "40Kshs"
+      },
+      {
+        "id": "4",
+        "image": "url.",
+        "weight": "2.0mg",
+        "cost": "50Kshs"
+      }
+    ],
+    "LongRing": [
+      {
+        "id": "5",
+        "image": "url.",
+        "weight": "4.1mg",
+        "cost": "60Kshs"
+      },
+      {
+        "id": "6",
+        "image": "url.",
+        "weight": "2.7mg",
+        "cost": "70Kshs"
+      },
+      {
+        "id": "7",
+        "image": "url.",
+        "weight": "3.6mg",
+        "cost": "80Kshs"
+      },
+      {
+        "id": "8",
+        "image": "url.",
+        "weight": "2.2mg",
+        "cost": "90Kshs"
+      }
+    ],
+    "NoseRing": [
+      {
+        "id": "9",
+        "image": "url.",
+        "weight": "2.1mg",
+        "cost": "35Kshs"
+      },
+      {
+        "id": "10",
+        "image": "url.",
+        "weight": "1.7mg",
+        "cost": "60Kshs"
+      },
+      {
+        "id": "11",
+        "image": "url.",
+        "weight": "2.6mg",
+        "cost": "25Kshs"
+      },
+      {
+        "id": "12",
+        "image": "url.",
+        "weight": "4.2mg",
+        "cost": "50Kshs"
+      }
+    ]
+  }
+}

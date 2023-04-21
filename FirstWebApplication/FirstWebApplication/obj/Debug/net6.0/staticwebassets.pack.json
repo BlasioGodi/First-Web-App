@@ -249,6 +249,62 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\Git\\First-Web-App\\FirstWebApplication\\FirstWebApplication\\wwwroot\\src\\bvitatidata.json",
+      "PackagePath": "staticwebassets\\src\\bvitatidata.json"
+    },
+    {
+      "Id": "D:\\Git\\First-Web-App\\FirstWebApplication\\FirstWebApplication\\wwwroot\\src\\img\\IMG-001.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\IMG-001.jpg"
+    },
+    {
+      "Id": "D:\\Git\\First-Web-App\\FirstWebApplication\\FirstWebApplication\\wwwroot\\src\\img\\IMG-002.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\IMG-002.jpg"
+    },
+    {
+      "Id": "D:\\Git\\First-Web-App\\FirstWebApplication\\FirstWebApplication\\wwwroot\\src\\img\\IMG-003.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\IMG-003.jpg"
+    },
+    {
+      "Id": "D:\\Git\\First-Web-App\\FirstWebApplication\\FirstWebApplication\\wwwroot\\src\\img\\IMG-004.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\IMG-004.jpg"
+    },
+    {
+      "Id": "D:\\Git\\First-Web-App\\FirstWebApplication\\FirstWebApplication\\wwwroot\\src\\img\\IMG-005.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\IMG-005.jpg"
+    },
+    {
+      "Id": "D:\\Git\\First-Web-App\\FirstWebApplication\\FirstWebApplication\\wwwroot\\src\\img\\IMG-006.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\IMG-006.jpg"
+    },
+    {
+      "Id": "D:\\Git\\First-Web-App\\FirstWebApplication\\FirstWebApplication\\wwwroot\\src\\img\\IMG-007.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\IMG-007.jpg"
+    },
+    {
+      "Id": "D:\\Git\\First-Web-App\\FirstWebApplication\\FirstWebApplication\\wwwroot\\src\\img\\IMG-008.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\IMG-008.jpg"
+    },
+    {
+      "Id": "D:\\Git\\First-Web-App\\FirstWebApplication\\FirstWebApplication\\wwwroot\\src\\img\\IMG-009.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\IMG-009.jpg"
+    },
+    {
+      "Id": "D:\\Git\\First-Web-App\\FirstWebApplication\\FirstWebApplication\\wwwroot\\src\\img\\IMG-010.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\IMG-010.jpg"
+    },
+    {
+      "Id": "D:\\Git\\First-Web-App\\FirstWebApplication\\FirstWebApplication\\wwwroot\\src\\img\\IMG-011.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\IMG-011.jpg"
+    },
+    {
+      "Id": "D:\\Git\\First-Web-App\\FirstWebApplication\\FirstWebApplication\\wwwroot\\src\\img\\IMG-012.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\IMG-012.jpg"
+    },
+    {
+      "Id": "D:\\Git\\First-Web-App\\FirstWebApplication\\FirstWebApplication\\wwwroot\\src\\img\\IMG-013.jpg",
+      "PackagePath": "staticwebassets\\src\\img\\IMG-013.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FirstWebApplication.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

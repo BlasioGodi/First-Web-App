@@ -29,3 +29,8 @@ D:\Git\First-Web-App\FirstWebApplication\FirstWebApplication\obj\Debug\net6.0\re
 D:\Git\First-Web-App\FirstWebApplication\FirstWebApplication\obj\Debug\net6.0\FirstWebApplication.pdb
 D:\Git\First-Web-App\FirstWebApplication\FirstWebApplication\obj\Debug\net6.0\FirstWebApplication.genruntimeconfig.cache
 D:\Git\First-Web-App\FirstWebApplication\FirstWebApplication\obj\Debug\net6.0\ref\FirstWebApplication.dll
+D:\Git\First-Web-App\FirstWebApplication\FirstWebApplication\bin\Debug\net6.0\AngleSharp.dll
+D:\Git\First-Web-App\FirstWebApplication\FirstWebApplication\bin\Debug\net6.0\AngleSharp.Css.dll
+D:\Git\First-Web-App\FirstWebApplication\FirstWebApplication\bin\Debug\net6.0\HtmlSanitizer.dll
+D:\Git\First-Web-App\FirstWebApplication\FirstWebApplication\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Git\First-Web-App\FirstWebApplication\FirstWebApplication\obj\Debug\net6.0\FirstWebApplication.csproj.CopyComplete

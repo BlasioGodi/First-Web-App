@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="HtmlSanitizer" Version="8.0.645" />
+  </ItemGroup>
+
 </Project>
