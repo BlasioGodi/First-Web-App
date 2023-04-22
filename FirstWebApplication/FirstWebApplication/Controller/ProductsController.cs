@@ -19,5 +19,13 @@ namespace FirstWebApplication.Controller
         {
             return ProductService.GetProducts();
         }
+        //[HttpPost]
+        [Route("Rate")]
+        [HttpGet]
+        public ActionResult Get(string ProductId, int Rating)
+        {
+            ProductService.AddRating(ProductId, Rating);
+            return Ok();
+        }
     }
 }
